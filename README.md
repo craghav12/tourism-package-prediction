@@ -39,5 +39,5 @@ requirements.txt                # dependencies for the ML pipeline jobs
 The Streamlit app (`tourism_project/deployment/app.py`) loads the committed model and predicts
 purchase likelihood from customer and sales-interaction details entered in the UI.
 
-- **Live app:** _add the Streamlit Community Cloud link here_
-- **GitHub repo:** _add this repository's link here_
+- **Live app:** https://tourism-package-prediction-craghav12.streamlit.app/
+- **GitHub repo:** https://github.com/craghav12/tourism-package-prediction
