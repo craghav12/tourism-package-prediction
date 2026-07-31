@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+mlruns/
+mlartifacts/
+/Xtrain.csv
+/Xtest.csv
+/ytrain.csv
+/ytest.csv
+/tourism.csv
+.DS_Store
+
